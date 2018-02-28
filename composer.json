@@ -1,0 +1,10 @@
+{
+    "name": "jack/composer",
+    "authors": [
+        {
+            "name": "jackmeng",
+            "email": "jiekemeng@gmail.com"
+        }
+    ],
+    "require": {}
+}
